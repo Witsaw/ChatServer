@@ -3,5 +3,5 @@
 Basic Chat server
 
 ##Usage
-
-spring-boot:run
+`mvn clean install` then
+`mvn spring-boot:run`
